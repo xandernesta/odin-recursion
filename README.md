@@ -1,4 +1,4 @@
-# recursion
+# Recursion
 - [Link to Odin Project Assignment](https://www.theodinproject.com/lessons/javascript-recursion)
 
 ## About
